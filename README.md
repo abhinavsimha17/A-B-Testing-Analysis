@@ -2,7 +2,7 @@
 
 An online store tested its current website (**Control**) against two new versions (**Variant A** and **Variant B**). This project uses 2 million user actions and 103K purchases to find out which version works best.
 
-![Conversion lift](figures/conversion_lift.png)
+
 
 ## Dataset
 
