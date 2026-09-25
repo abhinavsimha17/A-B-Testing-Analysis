@@ -26,7 +26,6 @@ This project uses the [Marketing and E-commerce Analytics Dataset](https://www.k
 4. **Looked at segments:** checked the results by device and traffic source.
 5. **Checked the test size:** the sample was large enough to spot even small changes.
 
-![Segment lift](figures/segment_lift.png)
 
 ## Limitations
 
